@@ -7,7 +7,7 @@
 * **IA (ainda estou escolhendo o modelo)** - Criação de dados de forma automatica e a filtragem de dados
 * **Git e GitHub** - Para o historico e o armazenamento do projeto
 
-## 📋 Dependencias
+## 📋 Pré-requisitos
 * **[Git](https://git-scm.com/)**
 * **[Python 3.x.x](https://www.python.org/downloads)**
 
